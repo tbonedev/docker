@@ -38,3 +38,10 @@ yarn tauri build
 - **Frontend**: React + TypeScript + Vite
 - **Backend**: Rust + Tauri
 - **Docker API**: Bollard
+
+
+## Pictures
+
+<img width="1805" height="1170" alt="image" src="https://github.com/user-attachments/assets/3e4ab6e7-7e5c-4113-85bf-f18d865ad3a2" />
+<img width="1806" height="1172" alt="image" src="https://github.com/user-attachments/assets/30d97ca8-c4a3-461d-9236-8455a0b03983" />
+
